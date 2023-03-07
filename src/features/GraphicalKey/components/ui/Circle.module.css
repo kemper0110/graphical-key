@@ -1,0 +1,10 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    outline: none;
+    box-shadow: 0 0 0 1px #fff;
+    border-radius: 9999px;
+    background: transparent;
+    color: white;
+    stroke-width: 3;
+}

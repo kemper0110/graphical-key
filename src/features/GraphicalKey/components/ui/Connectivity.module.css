@@ -1,0 +1,11 @@
+.connectivity {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    stroke-width: 3;
+    stroke: white;
+    transition-duration: .5s;
+}
